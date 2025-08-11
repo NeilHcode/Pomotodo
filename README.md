@@ -1,4 +1,4 @@
-# Pomotodo
+<img width="409" height="494" alt="圖片" src="https://github.com/user-attachments/assets/d4b965b0-7196-4f23-b0d3-d4a77cb8ad2a" /># Pomotodo
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue.svg" alt="Python Version">
@@ -21,10 +21,15 @@ A sleek Python PyQt6 desktop application merging a Pomodoro timer with an intuit
 
 ## 🚀 Get Started
 
+### Screenshot
+
+<img width="414" height="494" alt="pomotodo" src="https://github.com/user-attachments/assets/3de9d1ef-0980-4430-b128-f070cbf89f80" /><img width="410" height="493" alt="pomotodo_darkmode" src="https://github.com/user-attachments/assets/a4f1aba6-ce8d-44ce-94c8-ba0b8fadec83" />
+
+
 ### Prerequisites
 
 *   Python 3.x
-
+  
 ### Installation
 
 ```bash
@@ -33,6 +38,7 @@ cd Pomotodo
 pip install PyQt6
 # Ensure 'sounds/' directory with focus_end.mp3 and break_end.mp3 exists.
 ```
+### 
 
 ### Run
 

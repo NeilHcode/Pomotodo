@@ -47,7 +47,7 @@ python pomotodo.py
 
 ## 📄 License
 
-MIT License - See `LICENSE` for details.
+GNU GENERAL PUBLIC LICENSE - See `LICENSE` for details.
 
 ## 📞 Contact
 

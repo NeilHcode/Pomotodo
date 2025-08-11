@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Python-3.x-blue.svg" alt="Python Version">
   <img src="https://img.shields.io/badge/PyQt6-v6.x-green.svg" alt="PyQt6 Version">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Project Status">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPLv3"></a>
 </p>
 
 A sleek Python PyQt6 desktop application merging a Pomodoro timer with an intuitive, persistent to-do list. Boost focus and manage tasks efficiently.

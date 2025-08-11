@@ -1,5 +1,3 @@
-<img width="409" height="494" alt="圖片" src="https://github.com/user-attachments/assets/d4b965b0-7196-4f23-b0d3-d4a77cb8ad2a" /># Pomotodo
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue.svg" alt="Python Version">
   <img src="https://img.shields.io/badge/PyQt6-v6.x-green.svg" alt="PyQt6 Version">

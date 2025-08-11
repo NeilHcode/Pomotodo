@@ -45,10 +45,6 @@ python pomotodo.py
 *   [Python](https://www.python.org/)
 *   [PyQt6](https://doc.qt.io/qtforpython/)
 
-## 🤝 Contributing
-
-Fork, branch, commit, push, and PR. Contributions are welcome!
-
 ## 📄 License
 
 MIT License - See `LICENSE` for details.
